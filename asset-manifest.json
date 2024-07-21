@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ml-Model/static/css/main.49e377c2.css",
+    "main.js": "/Ml-Model/static/js/main.176ca3ca.js",
+    "static/media/city.jpg": "/Ml-Model/static/media/city.bec413c4a34b94fe023a.jpg",
+    "static/media/WeatherIcons.gif": "/Ml-Model/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
+    "static/media/background.jpg": "/Ml-Model/static/media/background.557a9309bec30e5e09e5.jpg",
+    "index.html": "/Ml-Model/index.html",
+    "main.49e377c2.css.map": "/Ml-Model/static/css/main.49e377c2.css.map",
+    "main.176ca3ca.js.map": "/Ml-Model/static/js/main.176ca3ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e377c2.css",
+    "static/js/main.176ca3ca.js"
+  ]
+}
