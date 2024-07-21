@@ -1,0 +1,18 @@
+.about-section {
+  padding: 50px;
+  background-color: rgba(5, 5, 4, 0.8); /* Adjust the last value for transparency (0 to 1) */
+  border-top: 1px solid #ac9191;
+  text-align: center;
+}
+
+.about-section h2 {
+  margin-bottom: 15px;
+  font-size: 24px;
+  color: #27c9de;
+}
+
+.about-section p {
+  margin-bottom: 30px;
+  font-size: 16px;
+  color: #977c7c;
+}
